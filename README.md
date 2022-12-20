@@ -1,4 +1,5 @@
-# Livro: PROGRAMAÇÃO DE COMPUTADORES COM LINGUAGEM JULIA
+# Livro: PROGRAMAÇÃO DE COMPUTADORES 
+#        COM LINGUAGEM JULIA
 
 Repositório do livro de Linguagem Julia
 
