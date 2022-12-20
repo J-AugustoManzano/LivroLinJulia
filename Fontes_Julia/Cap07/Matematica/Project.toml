@@ -1,0 +1,8 @@
+name = "Matematica"
+uuid = "4008b8b7-7cfb-4e7f-a40b-23d50447404a"
+authors = ["Augusto "]
+version = "0.1.0"
+
+[deps]
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
